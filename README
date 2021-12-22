@@ -49,20 +49,3 @@ SAT
 Si vous faites des affichages pour vos propres tests, il faudra penser
 à commenter ces tests pour que votre programme réponde exactement
 comme indiqué juste ci-dessus.
-
-
-Rendre son mini-projet
-----------------------
-
- - date limite : 29 octobre 2021, 23h59
- - sur la page Moodle du cours
-     https://moodle.u-paris.fr/course/view.php?id=1657
- - sous la forme d'une archive XX-nom1-nom2.zip où `XX' est le numéro
-   de binôme déclaré à la page
-     https://moodle.u-paris.fr/mod/choicegroup/view.php?id=82687
-   et `nom1' et `nom2' sont les noms de famille des deux membres du
-   binôme, contenant l'arborescence suivante :
-     XX-nom1-nom2/dpll.ml
-     XX-nom1-nom2/dimacs.ml
-     XX-nom1-nom2/Makefile
-     XX-nom1-nom2/RENDU
